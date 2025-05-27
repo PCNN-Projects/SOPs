@@ -1,4 +1,4 @@
-# SOPs
+# SOPs and Documents
 
 Here you can find Standard Operating Procedures (SOPs) for the PCNN.
 
